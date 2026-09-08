@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "nome": "Jiboia",
+    "especie": "Epipremnum aureum",
+    "pesquisa": "jiboia",
+    "rega": "A cada 7 dias",
+    "luz": "Luz indireta",
+    "dica": "Deixe o solo secar levemente entre as regas."
+  },
+  {
+    "id": 2,
+    "nome": "Espada-de-São-Jorge",
+    "especie": "Dracaena trifasciata",
+    "pesquisa": "espada de sao jorge",
+    "rega": "A cada 10 dias",
+    "luz": "Luz indireta ou meia-sombra",
+    "dica": "Evite o excesso de água e deixe o solo secar entre as regas."
+  },
+  {
+    "id": 3,
+    "nome": "Samambaia",
+    "especie": "Nephrolepis exaltata",
+    "pesquisa": "samambaia",
+    "rega": "A cada 3 dias",
+    "luz": "Luz indireta",
+    "dica": "Gosta de umidade, mas não deixe o solo encharcado."
+  },
+  {
+    "id": 4,
+    "nome": "Rosa",
+    "especie": "Rosa spp.",
+    "pesquisa": "rosa",
+    "rega": "A cada 3 dias",
+    "luz": "Sol direto",
+    "dica": "Precisa de bastante luz para crescer e florescer."
+  },
+  {
+    "id": 5,
+    "nome": "Lírio",
+    "especie": "Lilium spp.",
+    "pesquisa": "lirio",
+    "rega": "A cada 4 dias",
+    "luz": "Luz indireta ou sol da manhã",
+    "dica": "Mantenha o solo levemente úmido, evitando encharcamento."
+  },
+  {
+    "id": 6,
+    "nome": "Palmeira-Ráfis",
+    "especie": "Rhapis excelsa",
+    "pesquisa": "palmeira rafis",
+    "rega": "A cada 7 dias",
+    "luz": "Luz indireta",
+    "dica": "Prefere ambientes iluminados, mas sem sol forte direto."
+  },
+  {
+    "id": 7,
+    "nome": "Girassol",
+    "especie": "Helianthus annuus",
+    "pesquisa": "girassol",
+    "rega": "A cada 2 dias",
+    "luz": "Sol direto",
+    "dica": "Precisa de bastante luz solar para se desenvolver."
+  },
+  {
+    "id": 8,
+    "nome": "Suculenta",
+    "especie": "Echeveria elegans",
+    "pesquisa": "suculenta",
+    "rega": "A cada 10 dias",
+    "luz": "Sol direto ou luz intensa",
+    "dica": "Espere o solo secar completamente antes de regar novamente."
+  },
+  {
+    "id": 9,
+    "nome": "Cacto",
+    "especie": "Cactaceae",
+    "pesquisa": "cacto",
+    "rega": "A cada 15 dias",
+    "luz": "Sol direto",
+    "dica": "Regue somente quando o solo estiver completamente seco."
+  },
+  {
+    "id": 10,
+    "nome": "Babosa",
+    "especie": "Aloe vera",
+    "pesquisa": "babosa",
+    "rega": "A cada 10 dias",
+    "luz": "Sol direto",
+    "dica": "Evite o excesso de água para não prejudicar as raízes."
+  },
+  {
+    "id": 11,
+    "nome": "Zamioculca",
+    "especie": "Zamioculcas zamiifolia",
+    "pesquisa": "zamioculca",
+    "rega": "A cada 10 dias",
+    "luz": "Luz indireta ou meia-sombra",
+    "dica": "Deixe o solo secar entre as regas."
+  },
+  {
+    "id": 12,
+    "nome": "Costela-de-Adão",
+    "especie": "Monstera deliciosa",
+    "pesquisa": "costela de adao",
+    "rega": "A cada 7 dias",
+    "luz": "Luz indireta",
+    "dica": "Gosta de ambientes iluminados e úmidos."
+  },
+  {
+    "id": 13,
+    "nome": "Orquídea",
+    "especie": "Phalaenopsis spp.",
+    "pesquisa": "orquidea",
+    "rega": "A cada 7 dias",
+    "luz": "Luz indireta",
+    "dica": "Evite deixar água acumulada nas raízes."
+  },
+  {
+    "id": 14,
+    "nome": "Manjericão",
+    "especie": "Ocimum basilicum",
+    "pesquisa": "manjericao",
+    "rega": "A cada 2 dias",
+    "luz": "Sol direto",
+    "dica": "Mantenha o solo úmido, mas nunca encharcado."
+  },
+  {
+    "id": 15,
+    "nome": "Alecrim",
+    "especie": "Salvia rosmarinus",
+    "pesquisa": "alecrim",
+    "rega": "A cada 4 dias",
+    "luz": "Sol direto",
+    "dica": "Prefere solo mais seco e bastante luz solar."
+  },
+  {
+    "id": 16,
+    "nome": "Lavanda",
+    "especie": "Lavandula angustifolia",
+    "pesquisa": "lavanda",
+    "rega": "A cada 5 dias",
+    "luz": "Sol direto",
+    "dica": "Evite excesso de água e mantenha em local bem iluminado."
+  },
+  {
+    "id": 17,
+    "nome": "Tomateiro",
+    "especie": "Solanum lycopersicum",
+    "pesquisa": "tomateiro",
+    "rega": "A cada 2 dias",
+    "luz": "Sol direto",
+    "dica": "Precisa de bastante luz e regas regulares."
+  },
+  {
+    "id": 18,
+    "nome": "Hortelã",
+    "especie": "Mentha spp.",
+    "pesquisa": "hortela",
+    "rega": "A cada 2 dias",
+    "luz": "Luz indireta ou sol da manhã",
+    "dica": "Gosta de umidade e deve ser regada regularmente."
+  },
+  {
+    "id": 19,
+    "nome": "Antúrio",
+    "especie": "Anthurium andraeanum",
+    "pesquisa": "anturio",
+    "rega": "A cada 3 dias",
+    "luz": "Luz indireta",
+    "dica": "Gosta de umidade e não deve ficar exposto ao sol forte."
+  },
+  {
+    "id": 20,
+    "nome": "Pilea",
+    "especie": "Pilea peperomioides",
+    "pesquisa": "pilea",
+    "rega": "A cada 7 dias",
+    "luz": "Luz indireta",
+    "dica": "Deixe a camada superficial do solo secar antes de regar."
+  }
+]
